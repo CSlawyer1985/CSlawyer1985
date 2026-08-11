@@ -10,7 +10,6 @@
 
 ## ⭐ 精选项目
 
-我自己最看重、用得最多的几个。
 
 ⚖️ **[claude-for-legal-ZH](https://github.com/CSlawyer1985/claude-for-legal-ZH)** (<!--stars:claude-for-legal-ZH-->686<!--/stars-->⭐) — 《Claude for Legal》中国法版本：法律 Agent、技能与 MCP 数据连接器的参考框架，中国法律人开箱即用
 
@@ -22,7 +21,6 @@
 
 ## ⚖️ 法律实务 Skills
 
-把执业方法论封装成可复用、可追溯的 Skill。
 
 📋 **[contract-review-pro](https://github.com/CSlawyer1985/contract-review-pro)** (<!--stars:contract-review-pro-->217<!--/stars-->⭐) — 9 阶段合同审核全流程 + 终稿三件套，中国法律人适用
 
@@ -44,7 +42,6 @@
 
 ## 🛠️ 工具与效率
 
-律师日常真正在用的生产力工具。
 
 📰 **[mineru-converter-skill](https://github.com/CSlawyer1985/mineru-converter-skill)** (<!--stars:mineru-converter-skill-->33<!--/stars-->⭐) — PDF 转 Markdown：证据材料、裁判文书、合同的可靠转换，自动内存管理
 
